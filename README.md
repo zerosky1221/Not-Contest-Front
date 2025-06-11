@@ -32,8 +32,6 @@ This command starts the Vite development server.
 npm run dev
 ```
 
-The application will be running on `http://localhost:5173` (or the next available port).
-
 ## Available Scripts
 
 -   `npm run build`: Builds the app for production to the `dist` folder.
