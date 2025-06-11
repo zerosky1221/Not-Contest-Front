@@ -1,8 +1,40 @@
-# React + Tailwind
+# NOT Store - Telegram Mini App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. One top of the standard Vite setup, [tailwindcss](https://tailwindcss.com/) is installed and ready to be used in React components.
+This is a frontend implementation for the NOT Contest, creating a Telegram Mini App experience using React, Vite, and Tailwind CSS.
 
-Additional references:
+## Prerequisites
 
-- [Getting started with Vite](https://vitejs.dev/guide/)
-- [Tailwind documentation](https://tailwindcss.com/docs/installation)
+-   Node.js (LTS version recommended)
+-   npm (which comes with Node.js)
+
+## Getting Started
+
+Follow these steps to get the development environment running.
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/zerosky1221/not-contest-front.git
+cd not-contest-front
+```
+
+**2. Install dependencies**
+
+This will install all the required packages from `package.json`.
+```bash
+npm install
+```
+
+**3. Run the development server**
+
+This command starts the Vite development server.
+```bash
+npm run dev
+```
+
+The application will be running on `http://localhost:5173` (or the next available port).
+
+## Available Scripts
+
+-   `npm run build`: Builds the app for production to the `dist` folder.
+-   `npm run preview`: Serves the production build locally for preview.
