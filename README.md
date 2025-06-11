@@ -29,7 +29,7 @@ npm install
 
 This command starts the Vite development server.
 ```bash
-npm run dev
+npm run dev 
 ```
 
 ## Available Scripts
